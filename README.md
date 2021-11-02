@@ -1,6 +1,4 @@
-<h1>Mustak Ahmmed
-<h3>Profession Android Developer</h3>
-</h1>
+<h1>Mustak Ahmmed</h1>
 
 - 🔭 I’m currently working on [JUST Digital Diary](https://github.com/rmproduct/JUSTDigitalDiary)
 
