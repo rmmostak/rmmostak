@@ -1,12 +1,12 @@
 <h1>Mustak Ahmmed</h1>
 
-- 🔭 I’m currently working on [JUST Digital Diary](https://github.com/rmproduct/JUSTDigitalDiary)
+- 🔭 I’m currently working on [E-Palli Limited](https://epallilimited.com)
 
-- 🌱 I’m currently learning **Flutter with Dart.**
+- 🌱 I’m currently learning **OJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rmproduct](https://github.com/rmproduct)
 
-- 💬 Ask me about **Android Development, Java, SQLite, Firebase, XML, UI/UX Design**
+- 💬 Ask me about **Android Development, OJS, Java, SQLite, Firebase, XML, UI/UX Design**
 
 - 📫 How to reach me **rmmostak@gmail.com**
 
