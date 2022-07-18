@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **OJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rmproduct](https://github.com/rmproduct)
+- 👨‍💻 All of my projects are available at [https://github.com/rmmostak](https://github.com/rmmostak)
 
 - 💬 Ask me about **Android Development, OJS, Java, SQLite, Firebase, XML, UI/UX Design**
 
