@@ -1,8 +1,8 @@
 <h1>Mustak Ahmmed</h1>
 
-- 🔭 I’m currently working on [E-Palli Limited](https://epallilimited.com)
+- 🔭 I’m currently working at [E-Palli Limited](https://epallilimited.com)
 
-- 🌱 I’m currently learning **OJS**
+- 🌱 I’m currently learning **OJS & Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rmmostak](https://github.com/rmmostak)
 
