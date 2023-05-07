@@ -6,11 +6,11 @@
 
 - Trying to learn **Flutter with Dart**
 
-- Beside these I’m working on [Conference Organizing Tool](#)
+- Beside these I’m working on [Conference Organizing Tool](https://conftools.e-palli.com/)
 
 - Have a look [https://rmmostak.github.io](https://rmmostak.github.io)
 
-- Ask me about **Java, OJS, Laravel, Flutter**
+- Ask me about **Flutter, Java, OJS**
 
 - How to reach me **rmmostak@gmail.com**
 
